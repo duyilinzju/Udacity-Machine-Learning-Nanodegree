@@ -69,6 +69,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+/P1-Regression-Predicting Boston Housing Prices/.ipynb_checkpoints
 
 # pyenv
 .python-version
